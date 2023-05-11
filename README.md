@@ -1,5 +1,5 @@
 
-## Abou
+## About
 Welcome to the ToDo List Web Application! This application is designed to help you stay organized and manage your tasks effectively.
 ## Demo
 
